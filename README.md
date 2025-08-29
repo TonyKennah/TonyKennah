@@ -1,22 +1,10 @@
-# Pluckier
-
 "Pluckier" repos are libraries or microservices related to [Pluckier](https://www.pluckier.co.uk/).  They are mostly all Java & springframework with dependencies managed by maven but you'll find TypeScript, React, HTML, CSS and plain javascript.  Dealing with data in JSON from Google Cloud Storage or from Databases like mongo and postgres.  There's an MCP server offering all the lastest up-to-date racing metrics for AI agents.  Where applicable a repo will have a CI/CD pipeline, some of which auto-deploy to either github packages or Render (see chatter).  Finally simple docker files allow these apps to be containerised.
 
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/69982349-630f-4b10-9355-8f9c202c847b" /> 
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/3069a93d-2488-44f8-9962-f56166030d0e" /> 
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ae81d77c-c3e4-4525-917a-2d269299ee7a" /> 
 
-Pluckier (past performance chart)
 
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/69982349-630f-4b10-9355-8f9c202c847b" />
-  
-Pluckier (timeline of a days racing)
 
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/3069a93d-2488-44f8-9962-f56166030d0e" />
-  
-Pluckier (a rated race)
 
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ae81d77c-c3e4-4525-917a-2d269299ee7a" />
 
-# Personal
-
-[Software Engineer](https://www.pluckier.co.uk/site/)
-
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/6c5d700b-b16d-49f2-8142-9077ef5ab7dc" />
