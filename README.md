@@ -6,7 +6,7 @@
 
 [see previous github username](https://github.com/Tony-Kennah-cloudm)
 
-- 👋 Hi, I’m @tonykennah
+- 👋 Hi, I’m [@tony__kennah](https://x.com/Tony__Kennah)
 - 👀 I’m interested in motorbikes and chess
 - 🌱 I’m currently learning colours and numbers
 - 💞️ I’m looking to collaborate on AI
