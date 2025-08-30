@@ -5,3 +5,11 @@
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ae81d77c-c3e4-4525-917a-2d269299ee7a" /> 
 
 [see previous github username](https://github.com/Tony-Kennah-cloudm)
+
+- 👋 Hi, I’m @tonykennah
+- 👀 I’m interested in motorbikes and chess
+- 🌱 I’m currently learning colours and numbers
+- 💞️ I’m looking to collaborate on AI
+- 📫 How to reach me tonykennah@gmail.com
+- 😄 Pronouns: them, it
+- ⚡ Fun fact: The collective noun for sea cucumbers is a pickle
