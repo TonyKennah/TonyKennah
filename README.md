@@ -8,8 +8,8 @@
 
 - 👋 Hi, I’m [@tony__kennah](https://x.com/Tony__Kennah)
 - 👀 I’m a [Google](https://www.credly.com/badges/003d6d8b-b50d-42bf-91c7-29a33562aa48/public_url) certified Professional Cloud Developer
-- 🌱 I’m currently learning colours and numbers
+- 🌱 I’m currently learning SpringAI and MCP
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me tonykennah@gmail.com
-- 😄 Pronouns: them, it
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: The collective noun for sea cucumbers is a pickle
