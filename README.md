@@ -7,7 +7,7 @@
 [see previous github username](https://github.com/Tony-Kennah-cloudm)
 
 - 👋 Hi, I’m [@tony__kennah](https://x.com/Tony__Kennah)
-- 👀 I’m interested in motorbikes and chess
+- 👀 I’m a [Google](https://www.credly.com/badges/003d6d8b-b50d-42bf-91c7-29a33562aa48/public_url) certified Professional Cloud Developer
 - 🌱 I’m currently learning colours and numbers
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me tonykennah@gmail.com
