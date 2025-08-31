@@ -1,13 +1,13 @@
-- 👋 Hi, I’m [@tony__kennah](https://x.com/Tony__Kennah)
+- 👋 Hello, I am [@tony__kennah](https://x.com/Tony__Kennah)
 - 👀 I’m a [Google](https://www.credly.com/badges/003d6d8b-b50d-42bf-91c7-29a33562aa48/public_url) certified Professional Cloud Developer
-- 📅 Graduated as a Software Engineer in 1995
+- 📅 I graduated as a Software Engineer in 1995
 - 🌱 I’m currently improving my [chess](https://www.chess.com/analysis/game/computer/292230602/analysis)
-- 💞️ I like my yellow Kawasaki motorbike
+- 💞️ I like my yellow Kawasaki ER-6n motorbike
 - 💀 I was previously [TK](https://github.com/Tony-Kennah-cloudm)
 - 📫 How to reach me tonykennah@gmail.com
 - ⚡ Fun fact: The collective noun for sea cucumbers is a pickle
 
-"Pluckier" repos are libraries or microservices related to [Pluckier](https://www.pluckier.co.uk/).  They are mostly all Java & springframework with dependencies managed by maven but you'll find TypeScript, React, HTML, CSS and plain javascript.  Dealing with data in JSON from Google Cloud Storage or from Databases like mongo and postgres.  There's an MCP server offering all the lastest up-to-date racing metrics for AI agents.  Where applicable a repo will have a CI/CD pipeline, some of which auto-deploy to either github packages or Render (see chatter).  Finally simple docker files allow these apps to be containerised.
+*"Pluckier"* repos are libraries or microservices related to [Pluckier](https://www.pluckier.co.uk/).  They are mostly all Java & springframework with dependencies managed by maven but you'll find TypeScript, React, HTML, CSS and plain javascript.  Dealing with data in JSON from Google Cloud Storage or from Databases like mongo and postgres.  There's an MCP server offering all the lastest up-to-date racing metrics for AI agents.  Where applicable a repo will have a CI/CD pipeline, some of which auto-deploy to either github packages or Render (see chatter).  Finally simple docker files allow these apps to be containerised.
 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/69982349-630f-4b10-9355-8f9c202c847b" /> 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/3069a93d-2488-44f8-9962-f56166030d0e" /> 
