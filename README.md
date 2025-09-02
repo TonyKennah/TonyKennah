@@ -3,7 +3,7 @@
 - 📅 I graduated as a Software Engineer in 1995
 - 🌱 I’m currently improving my [chess](https://www.chess.com/analysis/game/computer/292230602/analysis)
 - 💞️ I like my yellow Kawasaki ER-6n motorbike
-- 💀 I was previously [TK](https://github.com/Tony-Kennah-cloudm)
+- 💀 I was previously [TK](https://github.com/old-employer)
 - 📫 How to reach me tonykennah@gmail.com
 - ⚡ Fun fact: The collective noun for sea cucumbers is a pickle
 
