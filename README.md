@@ -4,7 +4,7 @@
 - 🌱 I’m currently improving my [chess](https://www.chess.com/analysis/game/computer/292230602/analysis)
 - 💞️ I like my yellow Kawasaki ER-6n motorbike
 - 💀 On github I was previously [TK](https://github.com/old-employer)
-- 💀 On stackoverflow I am [Tony Kennah](https://stackoverflow.com/users/679523/tony-kennah?tab=profile)
+- 📚 On stackoverflow I am [Tony Kennah](https://stackoverflow.com/users/679523/tony-kennah?tab=profile)
 - 📫 How to reach me tonykennah@gmail.com
 - ⚡ Fun fact: The collective noun for sea cucumbers is a pickle
 
