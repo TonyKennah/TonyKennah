@@ -1,9 +1,10 @@
 - 👋 Hello, I am [@tony__kennah](https://x.com/Tony__Kennah)
 - 👀 I’m a [Google](https://www.credly.com/badges/003d6d8b-b50d-42bf-91c7-29a33562aa48/public_url) certified Professional Cloud Developer
-- 📅 I graduated as a Software Engineer in 1995
+- 📅 I graduated as a Software Engineer in 1995 from [U.M.I.S.T](https://www.manchester.ac.uk/about/history-heritage/history/umist/)
 - 🌱 I’m currently improving my [chess](https://www.chess.com/analysis/game/computer/292230602/analysis)
 - 💞️ I like my yellow Kawasaki ER-6n motorbike
 - 💀 On github I was previously [TK](https://github.com/old-employer)
+- 💀 On stackoverflow I am [Tony Kennah](https://stackoverflow.com/users/679523/tony-kennah?tab=profile)
 - 📫 How to reach me tonykennah@gmail.com
 - ⚡ Fun fact: The collective noun for sea cucumbers is a pickle
 
