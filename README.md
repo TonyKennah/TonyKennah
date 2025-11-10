@@ -9,7 +9,7 @@
 - 📫 How to reach me tonykennah@gmail.com
 - ⚡ Fun fact: The collective noun for sea cucumbers is a pickle
 
-*"Pluckier"* repos are libraries or microservices related to [Pluckier](https://www.pluckier.co.uk/).  They are mostly all Java & springframework with dependencies managed by maven but you'll find TypeScript, React, HTML, CSS and plain javascript.  Dealing with data in JSON from Google Cloud Storage or from Databases like mongo and postgres.  There's an MCP server offering all the lastest up-to-date racing metrics for AI agents.  Where applicable a repo will have a CI/CD pipeline, some of which auto-deploy to either github packages or Render (see chatter).  Finally simple docker files allow these apps to be containerised.
+*"Pluckier"* repos are libraries or microservices related to [Pluckier](https://www.pluckier.co.uk/).  They are mostly all Java & springframework with dependencies managed by maven but you'll find TypeScript, React, HTML, CSS and plain javascript.  Dealing with data in JSON from Google Cloud Storage or from Databases like mongo and postgres.  There's an MCP server offering all the lastest up-to-date racing metrics for AI agents.  Where applicable a repo will have a CI/CD pipeline, some of which auto-deploy to either github packages, github pages or Render.  Simple docker files allow these apps to be containerised.
 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/69982349-630f-4b10-9355-8f9c202c847b" /> 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/3069a93d-2488-44f8-9962-f56166030d0e" /> 
