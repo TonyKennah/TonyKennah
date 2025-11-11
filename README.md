@@ -1,4 +1,4 @@
-- 👋 Hello, I am [@tony__kennah](https://x.com/Tony__Kennah)
+- 👋 Hello, I am [TK](https://x.com/Tony__Kennah)
 - 📫 How to reach me tonykennah@gmail.com
 - 👀 I’m a [Google](https://www.credly.com/badges/003d6d8b-b50d-42bf-91c7-29a33562aa48/public_url) certified Professional Cloud Developer
 - 📅 I graduated as a Software Engineer in 1995 from [U.M.I.S.T](https://www.manchester.ac.uk/about/history-heritage/history/umist/)
