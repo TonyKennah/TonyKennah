@@ -1,4 +1,5 @@
 - 👋 Hello, I am [@tony__kennah](https://x.com/Tony__Kennah)
+- 📫 How to reach me tonykennah@gmail.com
 - 👀 I’m a [Google](https://www.credly.com/badges/003d6d8b-b50d-42bf-91c7-29a33562aa48/public_url) certified Professional Cloud Developer
 - 📅 I graduated as a Software Engineer in 1995 from [U.M.I.S.T](https://www.manchester.ac.uk/about/history-heritage/history/umist/)
 - 🌱 I’m currently improving my [chess](https://www.chess.com/analysis/game/computer/292230602/analysis)
@@ -6,7 +7,6 @@
 - 🍑 Expo and Github pages seem great [Race Alams](https://tonykennah.github.io/UKRaceAlarm/)
 - 💀 On github I was previously [TK](https://github.com/old-employer)
 - 📚 On stackoverflow I am [Tony Kennah](https://stackoverflow.com/users/679523/tony-kennah?tab=profile)
-- 📫 How to reach me tonykennah@gmail.com
 - ⚡ Fun fact: The collective noun for sea cucumbers is a pickle
 
 *"Pluckier"* repos are libraries or microservices related to [Pluckier](https://www.pluckier.co.uk/).  They are mostly all Java & springframework with dependencies managed by maven but you'll find TypeScript, React, HTML, CSS and plain javascript.  Dealing with data in JSON from Google Cloud Storage or from Databases like mongo and postgres.  There's an MCP server offering all the lastest up-to-date racing metrics for AI agents.  Where applicable a repo will have a CI/CD pipeline, some of which auto-deploy to either github packages, github pages or Render.  Simple docker files allow these apps to be containerised.
