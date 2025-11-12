@@ -1,7 +1,6 @@
 - 👋 Hello, I am [TK](https://x.com/Tony__Kennah)
+- 📅 I am a graduate Software Engineer and a [Google](https://www.credly.com/badges/003d6d8b-b50d-42bf-91c7-29a33562aa48/public_url) certified Professional Cloud Developer
 - 📫 How to reach me tonykennah@gmail.com
-- 👀 I’m a [Google](https://www.credly.com/badges/003d6d8b-b50d-42bf-91c7-29a33562aa48/public_url) certified Professional Cloud Developer
-- 📅 I graduated as a Software Engineer in 1995 from [U.M.I.S.T](https://www.manchester.ac.uk/about/history-heritage/history/umist/)
 - 🌱 I’m currently improving my [chess](https://www.chess.com/analysis/game/computer/292230602/analysis)
 - 🏍️ I like my yellow Kawasaki ER-6n motorbike
 - 🍑 Expo and Github pages seem great [Race Alams](https://tonykennah.github.io/UKRaceAlarm/)
