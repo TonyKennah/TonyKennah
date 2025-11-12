@@ -3,7 +3,7 @@
 - 📫 How to reach me tonykennah@gmail.com
 - 🌱 I’m currently improving my [chess](https://www.chess.com/analysis/game/computer/292230602/analysis)
 - 🏍️ I like my yellow Kawasaki ER-6n motorbike
-- 🍑 Expo and Github pages seem great [Race Alams](https://tonykennah.github.io/UKRaceAlarm/)
+- 🍑 Github packages and Github pages are great [Race Alams](https://tonykennah.github.io/UKRaceAlarm/)
 - 💀 On github I was previously [TK](https://github.com/old-employer)
 - 📚 On stackoverflow I am [Tony Kennah](https://stackoverflow.com/users/679523/tony-kennah?tab=profile)
 - ⚡ Fun fact: The collective noun for sea cucumbers is a pickle
