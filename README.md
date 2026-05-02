@@ -1,8 +1,10 @@
 - 👋 Hello, I am [TK](https://x.com/Tony__Kennah)
-- 📅 I am a graduate Software Engineer and a [Google](https://www.credly.com/badges/003d6d8b-b50d-42bf-91c7-29a33562aa48/public_url) certified Professional Cloud Developer
+- 📅 I am a graduate Software Engineer
+- 🏁 I was a [Google](https://www.credly.com/badges/003d6d8b-b50d-42bf-91c7-29a33562aa48/public_url) certified Professional Cloud Developer (expired)
+- 🚫 I was Security Cleared (expired)
 - 📫 How to reach me tonykennah@gmail.com
+- 🏛️ I mostly use Java 17 - 25
 - 🌱 I'm trying to improve my [chess](https://www.chess.com/analysis/game/computer/292230602/analysis)
-- 🏍️ I like my yellow Kawasaki ER-6n motorbike
 - 🍑 Github packages and Github pages are great - [Race Alams](https://tonykennah.github.io/UKRaceAlarm/) - [The Racing](https://tonykennah.github.io/racing/)
 - 💀 On github I was previously [TK](https://github.com/old-employer)
 - 📚 On stackoverflow I am [Tony Kennah](https://stackoverflow.com/users/679523/tony-kennah?tab=profile)
