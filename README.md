@@ -11,6 +11,15 @@
 - 📚 On stackoverflow I am [Tony Kennah](https://stackoverflow.com/users/679523/tony-kennah?tab=profile)
 - ⚡ Fun fact: The collective noun for sea cucumbers is a pickle
 
+<div align="center">
+<a href="https://github.com/TonyKennah">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TonyKennah&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TonyKennah&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TonyKennah&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TonyKennah&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TonyKennah&theme=2077" height="180em" />
+</div>
+
 *"Pluckier"* repos are libraries or microservices related to [Pluckier](https://www.pluckier.co.uk/).  They are mostly all Java & springframework with dependencies managed by maven but you'll find TypeScript, React, HTML, CSS and plain javascript.  Dealing with data in JSON from Google Cloud Storage or from Databases like mongo and postgres.  There's an MCP server offering all the lastest up-to-date racing metrics for AI agents.  Where applicable a repo will have a CI/CD pipeline, some of which auto-deploy to either github packages, github pages or Render.  Simple docker files allow these apps to be containerised.
 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/69982349-630f-4b10-9355-8f9c202c847b" /> 
