@@ -1,5 +1,5 @@
 - 👋 Hello, I am [TK](https://x.com/Tony__Kennah)
-- 📅 I am a graduate Software Engineer
+- 📅 I am a Software Engineer
 - 🏁 I was a [Google](https://www.credly.com/badges/003d6d8b-b50d-42bf-91c7-29a33562aa48/public_url) certified Professional Cloud Developer (expired)
 - 🚫 I was Security Cleared (expired)
 - 📫 How to reach me tonykennah@gmail.com
