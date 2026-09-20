@@ -1,4 +1,4 @@
-- 👋 Hello, I am [TK](https://x.com/Tony__Kennah)
+- 👋 Hello, I am [Tony Kennah](https://x.com/Tony__Kennah)
 - 📅 I am a Software Engineer
 - 🏁 I was a [Google](https://www.credly.com/badges/003d6d8b-b50d-42bf-91c7-29a33562aa48/public_url) certified Professional Cloud Developer (expired)
 - 🚫 I was Security Cleared (expired)
