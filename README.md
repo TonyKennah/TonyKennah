@@ -10,7 +10,7 @@
 - 👋 On github I am also [pluckier](https://github.com/pluckier)
 - 💀 On github I was previously [TK](https://github.com/old-employer)
 - 📚 On stackoverflow I am [Tony Kennah](https://stackoverflow.com/users/679523/tony-kennah?tab=profile)
-- ⚡ Fun fact: The collective noun for sea cucumbers is a pickle
+- ⚡ Fun fact: The collective noun for sea cucumbers is a pickle 🥒
 
 <div align="center">
 <a href="https://github.com/TonyKennah">
